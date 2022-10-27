@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+/** HEADER START **/
 a{
     text-decoration: none;
 }
@@ -85,5 +86,12 @@ header{
     .navbar a {
         display: block;
         padding: 9px;
+        background: white;
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 9px;
     }
 }
+
+/** HEADER END **/
